@@ -2,6 +2,8 @@
 Find the scripts for the relay examples here
 
 # install mongodb on raspbian
+
+#Mongodb
 sudo apt-get --yes --force-yes install build-essential libboost-filesystem-dev libboost-program-options-dev libboost-system-dev libboost-thread-dev scons libboost-all-dev python-pymongo git
 git clone https://github.com/skrabban/mongo-nonx86
 cd mongo-nonx86
